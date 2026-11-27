@@ -1,6 +1,3 @@
-
-
-
 # WebViewExample 📱
 
 A simple iOS application built using **Swift and UIKit** to demonstrate how to integrate and use `WKWebView` in an iOS app.
